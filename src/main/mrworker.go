@@ -2,7 +2,7 @@ package main
 
 //
 // start a worker process, which is implemented
-// in ../mr/worker.go. typically there will be
+// in lihaoyu/6.824-golabs-2020/src/mr/worker.go. typically there will be
 // multiple worker processes, talking to one master.
 //
 // go run mrworker.go wc.so
@@ -10,7 +10,7 @@ package main
 // Please do not change this file.
 //
 
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "plugin"
 import "os"
 import "fmt"

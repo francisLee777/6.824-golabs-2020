@@ -7,7 +7,7 @@ package main
 // go build -buildmode=plugin rtiming.go
 //
 
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "fmt"
 import "os"
 import "syscall"

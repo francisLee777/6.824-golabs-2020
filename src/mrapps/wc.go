@@ -6,7 +6,7 @@ package main
 // go build -buildmode=plugin wc.go
 //
 
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "unicode"
 import "strings"
 import "strconv"

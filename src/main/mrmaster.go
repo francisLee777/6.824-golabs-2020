@@ -9,7 +9,7 @@ package main
 // Please do not change this file.
 //
 
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "time"
 import "os"
 import "fmt"

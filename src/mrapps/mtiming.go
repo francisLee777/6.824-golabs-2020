@@ -7,7 +7,7 @@ package main
 // go build -buildmode=plugin mtiming.go
 //
 
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "strings"
 import "fmt"
 import "os"

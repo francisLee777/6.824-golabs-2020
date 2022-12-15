@@ -7,7 +7,7 @@ package main
 //
 
 import "fmt"
-import "../mr"
+import "lihaoyu/6.824-golabs-2020/src/mr"
 import "plugin"
 import "os"
 import "log"
